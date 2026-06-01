@@ -7,7 +7,7 @@
 
 > ⛏️ Кубічна естетика Майнкрафту, спокійний темп без таймерів, колекція нагород і досягнень — щоб тренувати математику було не «треба», а «хочу».
 
-🔗 **Демо:** `https://anastasiiavorobiova.github.io/minecraft-math-trainer-2-klas/`
+🔗 [**Демо:**]([https://t.me/Anastasiia_ova](https://anastasiiavorobiova.github.io/minecraft-math-trainer-2-klas/))
 
 ---
 
