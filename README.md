@@ -89,7 +89,8 @@
 ## 📁 Структура
 
 ```
-minecraft-math-nush/
+
+minecraft-math-trainer-2-klas/
 ├── index.html        # уся гра в одному файлі
 └── README.md
 ```
